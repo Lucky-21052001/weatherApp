@@ -1,10 +1,12 @@
+Description:
+Create a simple and user-friendly weather application that allows users to check the current weather conditions of a location.
 
+Technologies Used:
 
-<p align="left">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-
+HTML for structuring the application's layout
+CSS for styling the user interface
+JavaScript for handling user interactions and API integration
+Weather API to fetch real-time weather data
 
 
 
