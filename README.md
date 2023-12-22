@@ -1,5 +1,5 @@
 # weatherApp
-Description: Create a simple and user-friendly weather application that allows users to check the current weather conditions of a location.
+Description: Created a simple and user-friendly weather application that allows users to check the current weather conditions of a any city across the globe.
 
 Technologies Used:
 
