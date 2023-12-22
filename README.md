@@ -5,3 +5,5 @@ Technologies Used:
 
 HTML for structuring the application's layout CSS for styling the user interface JavaScript for handling user interactions and API integration Weather API to fetch real-time weather data
 It's a real time web application which help user to check the current weather status.
+
+![Screenshot (100)](https://github.com/Lucky-21052001/weatherApp/assets/120821905/3b79c2aa-3de0-40ac-9a41-f688943058e6)
